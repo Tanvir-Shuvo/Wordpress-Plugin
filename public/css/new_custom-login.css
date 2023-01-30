@@ -1,0 +1,14 @@
+/* New Custom -- Custom Login page Style*/
+
+body {
+  background-color: aqua;
+}
+.login form {
+  background-color: brown;
+  color: white;
+}
+.custom-message {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 15px;
+}

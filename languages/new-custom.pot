@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: New Custom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 11:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: new-custom"
+
+#. Description of the plugin
+msgid "Custimize Login page and Admin Area"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://rownakh8.sg-host.com/"
+msgstr ""
+
+#: new-custom.php:61
+msgid "My custom message"
+msgstr ""
+
+#. Name of the plugin
+msgid "New Custom"
+msgstr ""
+
+#: new-custom.php:59
+msgid "Powered by WordPress"
+msgstr ""
+
+#: new-custom.php:62
+msgid "Special message for users"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tanvir Shuvo"
+msgstr ""
